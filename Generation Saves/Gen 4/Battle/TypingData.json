@@ -1,0 +1,571 @@
+{
+  "Types": [
+    {
+      "Type_Name": "Normal",
+      "Type_Color": "#A8A878",
+      "Resource_Icon": "nPdyLOJLzDWqTswpYS+/3g==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [
+        "Ghost"
+      ],
+      "Effect_NotVery": [
+        "Rock",
+        "Steel"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Fire",
+        "Fighting",
+        "Water",
+        "Flying",
+        "Grass",
+        "Poison",
+        "Electric",
+        "Ground",
+        "Psychic",
+        "Rock",
+        "Ice",
+        "Bug",
+        "Dragon",
+        "Ghost",
+        "Dark",
+        "Steel",
+        "Fairy"
+      ],
+      "Effect_SuperEffective": []
+    },
+    {
+      "Type_Name": "Fire",
+      "Type_Color": "#F08030",
+      "Resource_Icon": "t67UnJfy9lwvU2bqHNgmOA==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [],
+      "Effect_NotVery": [
+        "Fire",
+        "Water",
+        "Rock",
+        "Dragon"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Fighting",
+        "Flying",
+        "Poison",
+        "Electric",
+        "Ground",
+        "Psychic",
+        "Ghost",
+        "Dark",
+        "Fairy"
+      ],
+      "Effect_SuperEffective": [
+        "Grass",
+        "Ice",
+        "Bug",
+        "Steel"
+      ]
+    },
+    {
+      "Type_Name": "Fighting",
+      "Type_Color": "#C03028",
+      "Resource_Icon": "zXmcYgRQPVxfbf/tzT0wlg==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [],
+      "Effect_NotVery": [
+        "Flying",
+        "Poison",
+        "Psychic",
+        "Bug",
+        "Fairy"
+      ],
+      "Effect_Normal": [
+        "Fire",
+        "Fighting",
+        "Water",
+        "Grass",
+        "Electric",
+        "Ground",
+        "Dragon",
+        "Ghost"
+      ],
+      "Effect_SuperEffective": [
+        "Normal",
+        "Rock",
+        "Ice",
+        "Dark",
+        "Steel"
+      ]
+    },
+    {
+      "Type_Name": "Water",
+      "Type_Color": "#6890F0",
+      "Resource_Icon": "nOhzXvEqtYEe3uvE8pWI6Q==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [],
+      "Effect_NotVery": [
+        "Water",
+        "Grass",
+        "Dragon"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Fighting",
+        "Flying",
+        "Poison",
+        "Electric",
+        "Psychic",
+        "Ice",
+        "Bug",
+        "Ghost",
+        "Dark",
+        "Steel",
+        "Fairy"
+      ],
+      "Effect_SuperEffective": [
+        "Fire",
+        "Ground",
+        "Rock"
+      ]
+    },
+    {
+      "Type_Name": "Flying",
+      "Type_Color": "#A88FF0",
+      "Resource_Icon": "Pvxt8jL0rWLrbd3l0jYCNw==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [],
+      "Effect_NotVery": [
+        "Electric",
+        "Rock",
+        "Steel"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Fire",
+        "Water",
+        "Flying",
+        "Poison",
+        "Ground",
+        "Psychic",
+        "Ice",
+        "Dragon",
+        "Ghost",
+        "Dark",
+        "Fairy"
+      ],
+      "Effect_SuperEffective": [
+        "Fighting",
+        "Grass",
+        "Bug"
+      ]
+    },
+    {
+      "Type_Name": "Grass",
+      "Type_Color": "#78C850",
+      "Resource_Icon": "1tINHNvxz98UwWCAR99T/A==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [],
+      "Effect_NotVery": [
+        "Fire",
+        "Flying",
+        "Grass",
+        "Poison",
+        "Bug",
+        "Dragon",
+        "Steel"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Fighting",
+        "Electric",
+        "Psychic",
+        "Ice",
+        "Ghost",
+        "Dark",
+        "Fairy"
+      ],
+      "Effect_SuperEffective": [
+        "Water",
+        "Ground",
+        "Rock"
+      ]
+    },
+    {
+      "Type_Name": "Poison",
+      "Type_Color": "#A040A0",
+      "Resource_Icon": "DRNfomQdtTawRHgISjVGXA==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [
+        "Steel"
+      ],
+      "Effect_NotVery": [
+        "Poison",
+        "Ground",
+        "Rock",
+        "Ghost"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Fire",
+        "Fighting",
+        "Water",
+        "Flying",
+        "Electric",
+        "Psychic",
+        "Ice",
+        "Bug",
+        "Dragon",
+        "Dark"
+      ],
+      "Effect_SuperEffective": [
+        "Grass",
+        "Fairy"
+      ]
+    },
+    {
+      "Type_Name": "Electric",
+      "Type_Color": "#F9D12F",
+      "Resource_Icon": "JRDp213CfIqsKc6E/X7IGw==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [
+        "Ground"
+      ],
+      "Effect_NotVery": [
+        "Grass",
+        "Electric",
+        "Dragon"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Fighting",
+        "Water",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Ice",
+        "Bug",
+        "Ghost",
+        "Dark",
+        "Steel",
+        "Fairy"
+      ],
+      "Effect_SuperEffective": [
+        "Fire",
+        "Flying"
+      ]
+    },
+    {
+      "Type_Name": "Ground",
+      "Type_Color": "#E4C46A",
+      "Resource_Icon": "65tE3PJbGml7N4kRbJKU3Q==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [
+        "Flying"
+      ],
+      "Effect_NotVery": [
+        "Grass",
+        "Bug"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Fighting",
+        "Water",
+        "Ground",
+        "Psychic",
+        "Ice",
+        "Dragon",
+        "Ghost",
+        "Dark",
+        "Fairy"
+      ],
+      "Effect_SuperEffective": [
+        "Fire",
+        "Poison",
+        "Electric",
+        "Rock",
+        "Steel"
+      ]
+    },
+    {
+      "Type_Name": "Psychic",
+      "Type_Color": "#F85888",
+      "Resource_Icon": "M2VE1Qr5gu1tBoU9jH1Ncw==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [
+        "Dark"
+      ],
+      "Effect_NotVery": [
+        "Psychic",
+        "Steel"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Fire",
+        "Water",
+        "Flying",
+        "Grass",
+        "Electric",
+        "Ground",
+        "Rock",
+        "Ice",
+        "Bug",
+        "Dragon",
+        "Ghost",
+        "Fairy"
+      ],
+      "Effect_SuperEffective": [
+        "Fighting",
+        "Poison"
+      ]
+    },
+    {
+      "Type_Name": "Rock",
+      "Type_Color": "#B8A038",
+      "Resource_Icon": "",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [],
+      "Effect_NotVery": [
+        "Fighting",
+        "Ground",
+        "Steel"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Water",
+        "Grass",
+        "Poison",
+        "Electric",
+        "Psychic",
+        "Rock",
+        "Dragon",
+        "Ghost",
+        "Dark",
+        "Fairy"
+      ],
+      "Effect_SuperEffective": [
+        "Fire",
+        "Flying",
+        "Ice",
+        "Bug"
+      ]
+    },
+    {
+      "Type_Name": "Ice",
+      "Type_Color": "#98D8D8",
+      "Resource_Icon": "/tuSWdKq6MKRXm3I7pJ8yw==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [],
+      "Effect_NotVery": [
+        "Fire",
+        "Water",
+        "Ice",
+        "Steel"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Fighting",
+        "Poison",
+        "Electric",
+        "Psychic",
+        "Rock",
+        "Bug",
+        "Ghost",
+        "Dark",
+        "Fairy"
+      ],
+      "Effect_SuperEffective": [
+        "Flying",
+        "Grass",
+        "Ground",
+        "Dragon"
+      ]
+    },
+    {
+      "Type_Name": "Bug",
+      "Type_Color": "#A8B820",
+      "Resource_Icon": "3VBVhqmHPWEjFxZUXCwyNA==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [],
+      "Effect_NotVery": [
+        "Fire",
+        "Fighting",
+        "Flying",
+        "Poison",
+        "Ghost",
+        "Steel",
+        "Fairy"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Water",
+        "Electric",
+        "Rock",
+        "Ice",
+        "Bug",
+        "Dragon",
+        "Dark"
+      ],
+      "Effect_SuperEffective": [
+        "Grass",
+        "Ground",
+        "Psychic"
+      ]
+    },
+    {
+      "Type_Name": "Dragon",
+      "Type_Color": "#6F37F8",
+      "Resource_Icon": "UlQAQVUypSA+3sChGkxVhQ==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [
+        "Fairy"
+      ],
+      "Effect_NotVery": [
+        "Steel"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Fire",
+        "Fighting",
+        "Water",
+        "Flying",
+        "Grass",
+        "Poison",
+        "Electric",
+        "Ground",
+        "Psychic",
+        "Rock",
+        "Ice",
+        "Bug",
+        "Ghost",
+        "Dark"
+      ],
+      "Effect_SuperEffective": [
+        "Dragon"
+      ]
+    },
+    {
+      "Type_Name": "Ghost",
+      "Type_Color": "#705898",
+      "Resource_Icon": "V+8g2IJvseBmeEboxM/s4Q==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [
+        "Normal"
+      ],
+      "Effect_NotVery": [
+        "Dark"
+      ],
+      "Effect_Normal": [
+        "Fire",
+        "Fighting",
+        "Water",
+        "Flying",
+        "Grass",
+        "Poison",
+        "Ground",
+        "Psychic",
+        "Rock",
+        "Ice",
+        "Bug",
+        "Dragon",
+        "Steel",
+        "Fairy"
+      ],
+      "Effect_SuperEffective": [
+        "Electric",
+        "Ghost"
+      ]
+    },
+    {
+      "Type_Name": "Dark",
+      "Type_Color": "#705848",
+      "Resource_Icon": "joY95tIg81HnHmiN4Iv4tA==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [],
+      "Effect_NotVery": [
+        "Fighting",
+        "Dark",
+        "Fairy"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Fire",
+        "Water",
+        "Flying",
+        "Grass",
+        "Poison",
+        "Ground",
+        "Psychic",
+        "Rock",
+        "Ice",
+        "Bug",
+        "Dragon",
+        "Steel"
+      ],
+      "Effect_SuperEffective": [
+        "Electric",
+        "Ghost"
+      ]
+    },
+    {
+      "Type_Name": "Steel",
+      "Type_Color": "#B8B8D0",
+      "Resource_Icon": "Gz+hPt/yDVz/1sr6iJ+cBw==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [],
+      "Effect_NotVery": [
+        "Fire",
+        "Water",
+        "Electric",
+        "Steel"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Fighting",
+        "Flying",
+        "Grass",
+        "Poison",
+        "Ground",
+        "Psychic",
+        "Bug",
+        "Dragon",
+        "Ghost",
+        "Dark"
+      ],
+      "Effect_SuperEffective": [
+        "Rock",
+        "Ice",
+        "Fairy"
+      ]
+    },
+    {
+      "Type_Name": "Fairy",
+      "Type_Color": "#F7B5F7",
+      "Resource_Icon": "oI58yzLoj5jZmvXnN+2EvQ==",
+      "Resource_Badge": null,
+      "Effect_NoEffect": [],
+      "Effect_NotVery": [
+        "Fire",
+        "Poison",
+        "Steel"
+      ],
+      "Effect_Normal": [
+        "Normal",
+        "Water",
+        "Flying",
+        "Grass",
+        "Electric",
+        "Ground",
+        "Psychic",
+        "Rock",
+        "Ice",
+        "Bug",
+        "Ghost",
+        "Fairy"
+      ],
+      "Effect_SuperEffective": [
+        "Fighting",
+        "Dragon",
+        "Dark"
+      ]
+    }
+  ]
+}
