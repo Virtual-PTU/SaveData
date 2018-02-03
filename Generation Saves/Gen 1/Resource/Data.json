@@ -1960,5 +1960,113 @@
     "Path": "save:Resource/Images/Tokens_ghost.png",
     "Name": "Tokens_ghost.png",
     "Type": 1
+  },
+  {
+    "ID": "3VBVhqmHPWEjFxZUXCwyNA==",
+    "Path": "save:Resource/Images/TypeIcon_bug.png",
+    "Name": "TypeIcon_bug.png",
+    "Type": 1
+  },
+  {
+    "ID": "joY95tIg81HnHmiN4Iv4tA==",
+    "Path": "save:Resource/Images/TypeIcon_dark.png",
+    "Name": "TypeIcon_dark.png",
+    "Type": 1
+  },
+  {
+    "ID": "UlQAQVUypSA+3sChGkxVhQ==",
+    "Path": "save:Resource/Images/TypeIcon_dragon.png",
+    "Name": "TypeIcon_dragon.png",
+    "Type": 1
+  },
+  {
+    "ID": "JRDp213CfIqsKc6E/X7IGw==",
+    "Path": "save:Resource/Images/TypeIcon_electric.png",
+    "Name": "TypeIcon_electric.png",
+    "Type": 1
+  },
+  {
+    "ID": "oI58yzLoj5jZmvXnN+2EvQ==",
+    "Path": "save:Resource/Images/TypeIcon_fairy.png",
+    "Name": "TypeIcon_fairy.png",
+    "Type": 1
+  },
+  {
+    "ID": "zXmcYgRQPVxfbf/tzT0wlg==",
+    "Path": "save:Resource/Images/TypeIcon_fighting.png",
+    "Name": "TypeIcon_fighting.png",
+    "Type": 1
+  },
+  {
+    "ID": "t67UnJfy9lwvU2bqHNgmOA==",
+    "Path": "save:Resource/Images/TypeIcon_fire.png",
+    "Name": "TypeIcon_fire.png",
+    "Type": 1
+  },
+  {
+    "ID": "Pvxt8jL0rWLrbd3l0jYCNw==",
+    "Path": "save:Resource/Images/TypeIcon_flying.png",
+    "Name": "TypeIcon_flying.png",
+    "Type": 1
+  },
+  {
+    "ID": "t2N7jWcB3iHFp6O9U0kBlw==",
+    "Path": "save:Resource/Images/TypeIcon_ghost.png",
+    "Name": "TypeIcon_ghost.png",
+    "Type": 1
+  },
+  {
+    "ID": "1tINHNvxz98UwWCAR99T/A==",
+    "Path": "save:Resource/Images/TypeIcon_grass.png",
+    "Name": "TypeIcon_grass.png",
+    "Type": 1
+  },
+  {
+    "ID": "65tE3PJbGml7N4kRbJKU3Q==",
+    "Path": "save:Resource/Images/TypeIcon_ground.png",
+    "Name": "TypeIcon_ground.png",
+    "Type": 1
+  },
+  {
+    "ID": "/tuSWdKq6MKRXm3I7pJ8yw==",
+    "Path": "save:Resource/Images/TypeIcon_ice.png",
+    "Name": "TypeIcon_ice.png",
+    "Type": 1
+  },
+  {
+    "ID": "nPdyLOJLzDWqTswpYS+/3g==",
+    "Path": "save:Resource/Images/TypeIcon_normal.png",
+    "Name": "TypeIcon_normal.png",
+    "Type": 1
+  },
+  {
+    "ID": "DRNfomQdtTawRHgISjVGXA==",
+    "Path": "save:Resource/Images/TypeIcon_poison.png",
+    "Name": "TypeIcon_poison.png",
+    "Type": 1
+  },
+  {
+    "ID": "M2VE1Qr5gu1tBoU9jH1Ncw==",
+    "Path": "save:Resource/Images/TypeIcon_psycic.png",
+    "Name": "TypeIcon_psycic.png",
+    "Type": 1
+  },
+  {
+    "ID": "lE5h4CigbB5aOZVetafLWw==",
+    "Path": "save:Resource/Images/TypeIcon_rock.png",
+    "Name": "TypeIcon_rock.png",
+    "Type": 1
+  },
+  {
+    "ID": "Gz+hPt/yDVz/1sr6iJ+cBw==",
+    "Path": "save:Resource/Images/TypeIcon_steel.png",
+    "Name": "TypeIcon_steel.png",
+    "Type": 1
+  },
+  {
+    "ID": "nOhzXvEqtYEe3uvE8pWI6Q==",
+    "Path": "save:Resource/Images/TypeIcon_water.png",
+    "Name": "TypeIcon_water.png",
+    "Type": 1
   }
 ]
