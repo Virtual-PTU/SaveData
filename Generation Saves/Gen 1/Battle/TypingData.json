@@ -5,7 +5,7 @@
       "Type_Color": "#FFA8A878",
       "Resource_Icon": "nPdyLOJLzDWqTswpYS+/3g==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [
+      "Effect_Immune": [
         "Ghost"
       ],
       "Effect_NotVery": [
@@ -39,7 +39,7 @@
       "Type_Color": "#FFF08030",
       "Resource_Icon": "t67UnJfy9lwvU2bqHNgmOA==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [],
+      "Effect_Immune": [],
       "Effect_NotVery": [
         "Fire",
         "Water",
@@ -70,7 +70,7 @@
       "Type_Color": "#FFC03028",
       "Resource_Icon": "zXmcYgRQPVxfbf/tzT0wlg==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [],
+      "Effect_Immune": [],
       "Effect_NotVery": [
         "Flying",
         "Poison",
@@ -101,7 +101,7 @@
       "Type_Color": "#FF6890F0",
       "Resource_Icon": "nOhzXvEqtYEe3uvE8pWI6Q==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [],
+      "Effect_Immune": [],
       "Effect_NotVery": [
         "Water",
         "Grass",
@@ -132,7 +132,7 @@
       "Type_Color": "#FFA88FF0",
       "Resource_Icon": "Pvxt8jL0rWLrbd3l0jYCNw==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [],
+      "Effect_Immune": [],
       "Effect_NotVery": [
         "Electric",
         "Rock",
@@ -163,7 +163,7 @@
       "Type_Color": "#FF78C850",
       "Resource_Icon": "1tINHNvxz98UwWCAR99T/A==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [],
+      "Effect_Immune": [],
       "Effect_NotVery": [
         "Fire",
         "Flying",
@@ -194,7 +194,7 @@
       "Type_Color": "#FFA040A0",
       "Resource_Icon": "DRNfomQdtTawRHgISjVGXA==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [
+      "Effect_Immune": [
         "Steel"
       ],
       "Effect_NotVery": [
@@ -226,7 +226,7 @@
       "Type_Color": "#FFF9D12F",
       "Resource_Icon": "JRDp213CfIqsKc6E/X7IGw==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [
+      "Effect_Immune": [
         "Ground"
       ],
       "Effect_NotVery": [
@@ -258,7 +258,7 @@
       "Type_Color": "#FFE4C46A",
       "Resource_Icon": "65tE3PJbGml7N4kRbJKU3Q==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [
+      "Effect_Immune": [
         "Flying"
       ],
       "Effect_NotVery": [
@@ -290,7 +290,7 @@
       "Type_Color": "#FFF85888",
       "Resource_Icon": "M2VE1Qr5gu1tBoU9jH1Ncw==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [
+      "Effect_Immune": [
         "Dark"
       ],
       "Effect_NotVery": [
@@ -322,7 +322,7 @@
       "Type_Color": "#FFB8A038",
       "Resource_Icon": "lE5h4CigbB5aOZVetafLWw==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [],
+      "Effect_Immune": [],
       "Effect_NotVery": [
         "Fighting",
         "Ground",
@@ -353,7 +353,7 @@
       "Type_Color": "#FF98D8D8",
       "Resource_Icon": "/tuSWdKq6MKRXm3I7pJ8yw==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [],
+      "Effect_Immune": [],
       "Effect_NotVery": [
         "Fire",
         "Water",
@@ -384,7 +384,7 @@
       "Type_Color": "#FFA8B820",
       "Resource_Icon": "3VBVhqmHPWEjFxZUXCwyNA==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [],
+      "Effect_Immune": [],
       "Effect_NotVery": [
         "Fire",
         "Fighting",
@@ -415,7 +415,7 @@
       "Type_Color": "#FF6F37F8",
       "Resource_Icon": "UlQAQVUypSA+3sChGkxVhQ==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [
+      "Effect_Immune": [
         "Fairy"
       ],
       "Effect_NotVery": [
@@ -447,7 +447,7 @@
       "Type_Color": "#FF705898",
       "Resource_Icon": "t2N7jWcB3iHFp6O9U0kBlw==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [
+      "Effect_Immune": [
         "Normal"
       ],
       "Effect_NotVery": [
@@ -479,7 +479,7 @@
       "Type_Color": "#FF705848",
       "Resource_Icon": "joY95tIg81HnHmiN4Iv4tA==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [],
+      "Effect_Immune": [],
       "Effect_NotVery": [
         "Fighting",
         "Dark",
@@ -510,7 +510,7 @@
       "Type_Color": "#FFB8B8D0",
       "Resource_Icon": "Gz+hPt/yDVz/1sr6iJ+cBw==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [],
+      "Effect_Immune": [],
       "Effect_NotVery": [
         "Fire",
         "Water",
@@ -541,7 +541,7 @@
       "Type_Color": "#FFF7B5F7",
       "Resource_Icon": "oI58yzLoj5jZmvXnN+2EvQ==",
       "Resource_Badge": null,
-      "Effect_NoEffect": [],
+      "Effect_Immune": [],
       "Effect_NotVery": [
         "Fire",
         "Poison",
@@ -567,5 +567,25 @@
         "Dark"
       ]
     }
+  ],
+  "Type_Names": [
+    "Normal",
+    "Fire",
+    "Fighting",
+    "Water",
+    "Flying",
+    "Grass",
+    "Poison",
+    "Electric",
+    "Ground",
+    "Psychic",
+    "Rock",
+    "Ice",
+    "Bug",
+    "Dragon",
+    "Ghost",
+    "Dark",
+    "Steel",
+    "Fairy"
   ]
 }
