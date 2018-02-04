@@ -2,7 +2,7 @@
   "Types": [
     {
       "Type_Name": "Normal",
-      "Type_Color": "#A8A878",
+      "Type_Color": "#FFA8A878",
       "Resource_Icon": "nPdyLOJLzDWqTswpYS+/3g==",
       "Resource_Badge": null,
       "Effect_NoEffect": [
@@ -36,7 +36,7 @@
     },
     {
       "Type_Name": "Fire",
-      "Type_Color": "#F08030",
+      "Type_Color": "#FFF08030",
       "Resource_Icon": "t67UnJfy9lwvU2bqHNgmOA==",
       "Resource_Badge": null,
       "Effect_NoEffect": [],
@@ -67,7 +67,7 @@
     },
     {
       "Type_Name": "Fighting",
-      "Type_Color": "#C03028",
+      "Type_Color": "#FFC03028",
       "Resource_Icon": "zXmcYgRQPVxfbf/tzT0wlg==",
       "Resource_Badge": null,
       "Effect_NoEffect": [],
@@ -98,7 +98,7 @@
     },
     {
       "Type_Name": "Water",
-      "Type_Color": "#6890F0",
+      "Type_Color": "#FF6890F0",
       "Resource_Icon": "nOhzXvEqtYEe3uvE8pWI6Q==",
       "Resource_Badge": null,
       "Effect_NoEffect": [],
@@ -129,7 +129,7 @@
     },
     {
       "Type_Name": "Flying",
-      "Type_Color": "#A88FF0",
+      "Type_Color": "#FFA88FF0",
       "Resource_Icon": "Pvxt8jL0rWLrbd3l0jYCNw==",
       "Resource_Badge": null,
       "Effect_NoEffect": [],
@@ -160,7 +160,7 @@
     },
     {
       "Type_Name": "Grass",
-      "Type_Color": "#78C850",
+      "Type_Color": "#FF78C850",
       "Resource_Icon": "1tINHNvxz98UwWCAR99T/A==",
       "Resource_Badge": null,
       "Effect_NoEffect": [],
@@ -191,7 +191,7 @@
     },
     {
       "Type_Name": "Poison",
-      "Type_Color": "#A040A0",
+      "Type_Color": "#FFA040A0",
       "Resource_Icon": "DRNfomQdtTawRHgISjVGXA==",
       "Resource_Badge": null,
       "Effect_NoEffect": [
@@ -223,7 +223,7 @@
     },
     {
       "Type_Name": "Electric",
-      "Type_Color": "#F9D12F",
+      "Type_Color": "#FFF9D12F",
       "Resource_Icon": "JRDp213CfIqsKc6E/X7IGw==",
       "Resource_Badge": null,
       "Effect_NoEffect": [
@@ -255,7 +255,7 @@
     },
     {
       "Type_Name": "Ground",
-      "Type_Color": "#E4C46A",
+      "Type_Color": "#FFE4C46A",
       "Resource_Icon": "65tE3PJbGml7N4kRbJKU3Q==",
       "Resource_Badge": null,
       "Effect_NoEffect": [
@@ -287,7 +287,7 @@
     },
     {
       "Type_Name": "Psychic",
-      "Type_Color": "#F85888",
+      "Type_Color": "#FFF85888",
       "Resource_Icon": "M2VE1Qr5gu1tBoU9jH1Ncw==",
       "Resource_Badge": null,
       "Effect_NoEffect": [
@@ -319,8 +319,8 @@
     },
     {
       "Type_Name": "Rock",
-      "Type_Color": "#B8A038",
-      "Resource_Icon": "",
+      "Type_Color": "#FFB8A038",
+      "Resource_Icon": "lE5h4CigbB5aOZVetafLWw==",
       "Resource_Badge": null,
       "Effect_NoEffect": [],
       "Effect_NotVery": [
@@ -350,7 +350,7 @@
     },
     {
       "Type_Name": "Ice",
-      "Type_Color": "#98D8D8",
+      "Type_Color": "#FF98D8D8",
       "Resource_Icon": "/tuSWdKq6MKRXm3I7pJ8yw==",
       "Resource_Badge": null,
       "Effect_NoEffect": [],
@@ -381,7 +381,7 @@
     },
     {
       "Type_Name": "Bug",
-      "Type_Color": "#A8B820",
+      "Type_Color": "#FFA8B820",
       "Resource_Icon": "3VBVhqmHPWEjFxZUXCwyNA==",
       "Resource_Badge": null,
       "Effect_NoEffect": [],
@@ -412,7 +412,7 @@
     },
     {
       "Type_Name": "Dragon",
-      "Type_Color": "#6F37F8",
+      "Type_Color": "#FF6F37F8",
       "Resource_Icon": "UlQAQVUypSA+3sChGkxVhQ==",
       "Resource_Badge": null,
       "Effect_NoEffect": [
@@ -444,8 +444,8 @@
     },
     {
       "Type_Name": "Ghost",
-      "Type_Color": "#705898",
-      "Resource_Icon": "V+8g2IJvseBmeEboxM/s4Q==",
+      "Type_Color": "#FF705898",
+      "Resource_Icon": "t2N7jWcB3iHFp6O9U0kBlw==",
       "Resource_Badge": null,
       "Effect_NoEffect": [
         "Normal"
@@ -476,7 +476,7 @@
     },
     {
       "Type_Name": "Dark",
-      "Type_Color": "#705848",
+      "Type_Color": "#FF705848",
       "Resource_Icon": "joY95tIg81HnHmiN4Iv4tA==",
       "Resource_Badge": null,
       "Effect_NoEffect": [],
@@ -507,7 +507,7 @@
     },
     {
       "Type_Name": "Steel",
-      "Type_Color": "#B8B8D0",
+      "Type_Color": "#FFB8B8D0",
       "Resource_Icon": "Gz+hPt/yDVz/1sr6iJ+cBw==",
       "Resource_Badge": null,
       "Effect_NoEffect": [],
@@ -538,7 +538,7 @@
     },
     {
       "Type_Name": "Fairy",
-      "Type_Color": "#F7B5F7",
+      "Type_Color": "#FFF7B5F7",
       "Resource_Icon": "oI58yzLoj5jZmvXnN+2EvQ==",
       "Resource_Badge": null,
       "Effect_NoEffect": [],
