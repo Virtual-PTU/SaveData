@@ -236,8 +236,8 @@
       ],
       "Effect_Normal": [
         "Normal",
+        "Fire",
         "Fighting",
-        "Water",
         "Poison",
         "Psychic",
         "Rock",
@@ -249,7 +249,7 @@
         "Fairy"
       ],
       "Effect_SuperEffective": [
-        "Fire",
+        "Water",
         "Flying"
       ]
     },
